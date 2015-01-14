@@ -25,3 +25,6 @@
 [submodule "cookbooks/chef-sugar"]
 	path = cookbooks/chef-sugar
 	url = https://github.com/sethvargo/chef-sugar.git
+[submodule "cookbooks/chef-sonar"]
+	path = cookbooks/chef-sonar
+	url = https://github.com/ctrabold/chef-sonar.git
